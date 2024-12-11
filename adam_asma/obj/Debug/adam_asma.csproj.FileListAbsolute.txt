@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\adam_asma\adam_asma\bin\Debug\adam_asma.exe.config
+C:\Users\ASUS\source\repos\adam_asma\adam_asma\bin\Debug\adam_asma.exe
+C:\Users\ASUS\source\repos\adam_asma\adam_asma\bin\Debug\adam_asma.pdb
+C:\Users\ASUS\source\repos\adam_asma\adam_asma\obj\Debug\adam_asma.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\adam_asma\adam_asma\obj\Debug\adam_asma.Properties.Resources.resources
+C:\Users\ASUS\source\repos\adam_asma\adam_asma\obj\Debug\adam_asma.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\adam_asma\adam_asma\obj\Debug\adam_asma.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\adam_asma\adam_asma\obj\Debug\adam_asma.exe
+C:\Users\ASUS\source\repos\adam_asma\adam_asma\obj\Debug\adam_asma.pdb
